@@ -1,0 +1,12 @@
+# Media files
+*.mp3
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+.venv/
+.vscode/
